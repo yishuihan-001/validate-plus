@@ -248,7 +248,7 @@ export default {
 
 &nbsp;
 
-## 我如何在 egg 应用中使用这个包
+## 如何在 egg 应用中使用这个包
 
 针对 egg 应用，或许你可以了解一下 **egg-validate-plugin**
 
