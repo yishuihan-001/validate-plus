@@ -2,7 +2,7 @@
   "name": "validate-plus",
   "version": "1.0.0",
   "description": "简单、易用、可扩展的参数校验工具",
-  "main": "index.js",
+  "main": "libs/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
