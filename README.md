@@ -9,18 +9,18 @@
 [![Known Vulnerabilities][snyk-image]][snyk-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/egg-validate-plugin.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/egg-validate-plugin
-[travis-image]: https://img.shields.io/travis/eggjs/egg-validate-plugin.svg?style=flat-square
-[travis-url]: https://travis-ci.org/eggjs/egg-validate-plugin
-[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-validate-plugin.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/egg-validate-plugin?branch=master
-[david-image]: https://img.shields.io/david/eggjs/egg-validate-plugin.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/egg-validate-plugin
-[snyk-image]: https://snyk.io/test/npm/egg-validate-plugin/badge.svg?style=flat-square
-[snyk-url]: https://snyk.io/test/npm/egg-validate-plugin
-[download-image]: https://img.shields.io/npm/dm/egg-validate-plugin.svg?style=flat-square
-[download-url]: https://npmjs.org/package/egg-validate-plugin
+[npm-image]: https://img.shields.io/npm/v/validate-plus.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/validate-plus
+[travis-image]: https://img.shields.io/travis/eggjs/validate-plus.svg?style=flat-square
+[travis-url]: https://travis-ci.org/eggjs/validate-plus
+[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/validate-plus.svg?style=flat-square
+[codecov-url]: https://codecov.io/github/eggjs/validate-plus?branch=master
+[david-image]: https://img.shields.io/david/eggjs/validate-plus.svg?style=flat-square
+[david-url]: https://david-dm.org/eggjs/validate-plus
+[snyk-image]: https://snyk.io/test/npm/validate-plus/badge.svg?style=flat-square
+[snyk-url]: https://snyk.io/test/npm/validate-plus
+[download-image]: https://img.shields.io/npm/dm/validate-plus.svg?style=flat-square
+[download-url]: https://npmjs.org/package/validate-plus
 
 
 
