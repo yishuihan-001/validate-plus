@@ -1,0 +1,11 @@
+.DS_Store
+npm-debug.log
+node_modules
+yarn-error.log
+.vscode
+.eslintrc.json
+logs/
+coverage/
+.idea/
+run/
+*.swp
