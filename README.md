@@ -81,7 +81,7 @@ const { valid, validTc, addValidRule } = require('validate-plus')
 
 ## valid & validTc 校验方法说明
 
-由于 valid 和 validTc 方法入参（接收两个参数）完全一样，以下均已 valid 方法为例演示用法（省略了try.catch 语句）
+由于 valid 和 validTc 方法入参（接收两个参数）完全一样，以下均已 valid 方法为例演示用法（省略了返回值判断）
 ### 参数说明
 
 * 第一个参数：下称 **规则对象** （必传）
